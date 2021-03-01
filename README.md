@@ -15,7 +15,7 @@ Import each CSV file into the corresponding SQL table. Note be sure to import th
 
 
 
-Data Analysis
+Data Analysis:
 Once you have a complete database, do the following:
 1) List the following details of each employee: employee number, last name, first name, sex, and salary.
 2) List first name, last name, and hire date for employees who were hired in 1986.
